@@ -15,7 +15,7 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 **Query 4:** The "view" rating for the average price of a home, rounded to two decimal places, where the homes are greater than or equal to $350,000
 
-<img width="515" alt="Screenshot 2023-05-24 at 7 40 52 PM" src="https://github.com/Jan0405/Home_Sales/assets/120051602/05a283bb-e0c2-4f03-9e13-b747cbf36953">
+<img width="523" alt="Screenshot 2023-05-24 at 7 54 22 PM" src="https://github.com/Jan0405/Home_Sales/assets/120051602/85768e30-94a0-4629-9d3b-ee9fcea31d97">
 
 ## Compare Run Times on Query 4.
 1. Uncache Runtime: 1.2312524318695068 seconds

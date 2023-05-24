@@ -18,6 +18,6 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 <img width="515" alt="Screenshot 2023-05-24 at 7 40 52 PM" src="https://github.com/Jan0405/Home_Sales/assets/120051602/05a283bb-e0c2-4f03-9e13-b747cbf36953">
 
 ## Compare Run Times on Query 4.
-1. Uncache Runtime: 0.8288760185241699 seconds
-2. Cached Runtime: 0.6935641765594482 seconds
-3. Runtime with the parquet DataFrame: 0.8239700794219971 seconds
+1. Uncache Runtime: 1.2312524318695068 seconds
+2. Cached Runtime: 0.4685657024383545 seconds
+3. Runtime with the parquet DataFrame: 0.5126678943634033 seconds
